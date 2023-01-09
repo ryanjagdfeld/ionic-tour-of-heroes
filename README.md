@@ -4,6 +4,6 @@ This is an example project to show how to add the [Ionic framework](https://gith
 
 First, and this is where the project is currently at, I followed the [Angular Tour of Heroes](https://angular.io/tutorial/tour-of-heroes) tutorial to have an existing Angular app to begin with.
 
-Next, we will add the functionality of the device camera to the app to take a photos of our heroes.  
+Next, we will add the functionality of the device camera to the app to take photos of our heroes.  
 
 ### More to come...
